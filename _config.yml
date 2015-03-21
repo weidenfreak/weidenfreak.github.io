@@ -1,7 +1,7 @@
 # Site settings
-title: Freelancer
-email: your-email@domain.com
-url: https://example.github.io
+title: Meike Wiemann
+email: meike.wiemann@web.de
+url: https://weidenfreak.github.io
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
@@ -9,37 +9,37 @@ contact: static
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: 18bc9c #80B3FF
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
+  primary: 8C0042   #221F25 #8C0042 #18bc9c #80B3FF
+  secondary: 9095A0 #F4AE6D #A8ADBD #2c3e50 #FD6E8A
+  secondary-dark: 365056 #F1955E #00485A #233140 #A2122F
 
+#dark red 570100
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Meike Wiemann
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: linkedin
+    url: https://www.linkedin.com/in/meikewiemann
+  - title: xing
+    url: https://www.xing.com/profile/Meike_Wiemann
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/weidenfreak
+  - title: twitter
+    url: http://twitter.com/weidenfreak
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Rullstensgatan 178
+  - line: 90655 Umeå
+  - line: Sweden
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Build with <a href="http://jekyllrb.com/">Jekyll</a> and based on Bootstrap theme Freelancer, created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
