@@ -2,7 +2,8 @@
 title: Meike Wiemann
 email: meike.wiemann@web.de
 url: https://weidenfreak.github.io
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+#"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: Meike Wiemann - HCI Master Student and Software Developer
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -39,7 +40,7 @@ address:
   - line: Sweden
 
 # Credits content
-credits: 'Build with <a href="http://jekyllrb.com/">Jekyll</a> and based on Bootstrap theme Freelancer, created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Build with <a href="http://jekyllrb.com/">Jekyll</a> <br>Based on <a href="http://startbootstrap.com/template-overviews/freelancer/">Freelancer Theme</a>'
 
 # Build settings
 markdown: kramdown
