@@ -1,4 +1,29 @@
 /*add focus description to portfolio thumbnails*/
+body {
+  font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Merriweather","Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-transform: none;
+}
+
+header .intro-text .name {
+  font-family: "Merriweather","Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-transform: none;
+}
+
+.navbar {
+  font-family: "Merriweather","Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-transform: none;
+  font-size:18px;
+}
+
 .portfolio-item .focus {
   margin-top: 10px;
 }
@@ -19,28 +44,31 @@
 .wikimedia {
   /* Location of the image */
   background-image: url(img/whiteboard_raw.jpg);
+  background-position: center center; /*calc(-456px)*/
 }
 
 .github {
   /* Location of the image */
   background-image: url(img/portfolio/github.png);
+  background-position: center calc(-186px);
 }
 
 .arduino {
   /* Location of the image */
   background-image: url(img/portfolio/arduino_large.jpg);
+  background-position: center bottom;/*calc(-637px)*/
 }
 
 #background-image {
   /* Background image is centered vertically and horizontally at all times */
-  background-position: center center;
+
 
   /* Background image doesn't tile */
   background-repeat: no-repeat;
 
   /* Background image is fixed in the viewport so that it doesn't move when
      the content's height is greater than the image's height */
-  /*background-attachment: fixed;*/
+  background-attachment: fixed;
 
   /* This is what makes the background image rescale based
      on the container's size */

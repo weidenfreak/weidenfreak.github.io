@@ -12,13 +12,13 @@ contact: static
 color:
   primary: 8C0042   #221F25 #8C0042 #18bc9c #80B3FF
   secondary: 9095A0 #F4AE6D #A8ADBD #2c3e50 #FD6E8A
-  secondary-dark: 365056 #F1955E #00485A #233140 #A2122F
+  secondary-dark: 1a242f #F1955E #00485A #233140 #A2122F
 
 #dark red 570100
 # Footer settings
 footer:
   copyright: Meike Wiemann
-  location: Location
+  location: Contact
   social: Around the Web
   credits: Credits
 
@@ -35,7 +35,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Rullstensgatan 178
+  - line: '<a href="mailto:meike.wiemann@web.de">meike.wiemann@web.de</a>'
+  - line: "Rullstensgatan 178"
   - line: 90655 Umeå
   - line: Sweden
 
