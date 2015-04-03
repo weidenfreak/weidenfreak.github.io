@@ -18,7 +18,7 @@ color:
 # Footer settings
 footer:
   copyright: Meike Wiemann
-  location: Contact
+  location: Contact Me
   social: Around the Web
   credits: Credits
 
@@ -36,12 +36,13 @@ social:
 # Postal address (add as many lines as necessary)
 address:
   - line: '<a href="mailto:meike.wiemann@web.de">meike.wiemann@web.de</a>'
+  - line: " "
   - line: "Rullstensgatan 178"
   - line: 90655 Umeå
   - line: Sweden
 
 # Credits content
-credits: 'Build with <a href="http://jekyllrb.com/">Jekyll</a> <br>Based on <a href="http://startbootstrap.com/template-overviews/freelancer/">Freelancer Theme</a>'
+credits: '<a href="http://jekyllrb.com/">Jekyll</a> <br><br><a href="http://startbootstrap.com/template-overviews/freelancer/">Freelancer Theme</a>'
 
 # Build settings
 markdown: kramdown

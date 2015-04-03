@@ -1,4 +1,44 @@
 /*add focus description to portfolio thumbnails*/
+.skills p {
+    color: white;
+    font-size: 14px;
+    padding: 5px 10px 10px 13px;
+    width: 100%;
+}
+
+.skills ul li {
+    margin-bottom: 15px;
+}
+
+.skill {
+    background: none repeat scroll 0 0 #{{ site.color.secondary }};
+    height: 31px;
+}
+
+.prototype {
+  width: 340px;
+}
+
+.research {
+  width: 260px;
+}
+
+.ux {
+  width: 220px;
+}
+
+.interaction {
+  width: 180px;
+}
+
+.visual {
+  width: 101px;
+}
+
+.usability {
+  width: 220px;
+}
+
 body {
   font-family: "Source Sans Pro","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
@@ -63,6 +103,20 @@ figcaption {
   text-align: center;
   margin-bottom: 20px;
   margin-top: -20px;
+}
+
+.btn-outline.resume {
+    border: solid 2px #{{ site.color.secondary }};
+    color: #{{ site.color.secondary }};
+}
+
+.btn-outline.resume:hover,
+.btn-outline.resume:focus,
+.btn-outline.resume:active,
+.btn-outline.resume.active {
+    border: solid 2px #{{ site.color.secondary }};
+    color: #fff ;
+    background: #{{ site.color.secondary }};
 }
 
 #background-image {
