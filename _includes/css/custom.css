@@ -1,3 +1,26 @@
+header {
+    background-attachment: scroll;
+    background-image: url("img/snow_trim.png");
+    background-repeat:no-repeat;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size:cover;
+    background-position:top center;
+    color: #fff;
+    text-align: center;
+  }
+
+
+
+.navbar-default .navbar-brand {
+    color: #{{ site.color.secondary-dark }};
+}
+
+.navbar-default .navbar-nav > li > a {
+    color: #{{ site.color.secondary-dark }};
+}
+
 /*add focus description to portfolio thumbnails*/
 .skills p {
     color: white;
@@ -43,6 +66,10 @@ body {
   font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
+.footer-below {
+  color: #{{ site.color.secondary }};
+}
+
 h1,
 h2,
 h3,
@@ -53,9 +80,8 @@ h6 {
   text-transform: none;
 }
 
-header .intro-text .name {
-  font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
-  text-transform: none;
+section h2 {
+  color: #{{ site.color.secondary }};
 }
 
 .navbar {
@@ -70,6 +96,16 @@ hr.star-light, hr.star-primary {
 
 hr.star-light::after, hr.star-primary::after {
   font-size: 1em;
+}
+
+hr.star-light {
+    border-color: #{{ site.color.secondary }};
+    color: #{{ site.color.primary }};
+}
+
+hr.star-light:after {
+    color: #{{ site.color.secondary }};
+    background-color: #{{ site.color.primary }};
 }
 
 h3 {
@@ -131,29 +167,24 @@ figcaption {
     background: #{{ site.color.secondary }};
 }
 
-#background-image {
-  /* Background image is centered vertically and horizontally at all times */
 
 
-  /* Background image doesn't tile */
-  background-repeat: no-repeat;
-
-  /* Background image is fixed in the viewport so that it doesn't move when
-     the content's height is greater than the image's height */
-  background-attachment: fixed;
-
-  /* This is what makes the background image rescale based
-     on the container's size */
-  background-size: cover;
-
-  /* Set a background color that will be displayed
-     while the background image is loading */
-  background-color: #464646;
-
-  height: 200px;
-
-  margin: 17px 0;
+header .intro-text {
+    padding-bottom: 30%;
+    color: #{{ site.color.secondary }};
 }
+
+header .intro-text .name {
+  font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+  text-transform: none;
+}
+
+
+/*@media only screen and (max-device-width: 768px) {
+  header .intro-text {
+    padding-bottom: 150px;
+  }
+}*/
 
 /*responsive video from https://gist.github.com/jgarber/2302238 */
 .flex-video {

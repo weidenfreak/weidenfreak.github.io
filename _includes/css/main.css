@@ -6,6 +6,7 @@
 
 body {
     overflow-x: hidden;
+    color: #1a242f;
 }
 
 p {
@@ -22,7 +23,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: #{{ site.color.colorful }};
 }
 
 h1,
@@ -63,7 +64,7 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: #{{ site.color.secondary }};
 }
 
 hr.star-primary {
