@@ -6,7 +6,7 @@ class: arduino
 role: Concept, Evaluations, Prototyping
 keywords: Data Visualisation, Embodied Interaction, Prototyping (Arduino, Javascript)
 date: 2014-07-13
-img: arduino_large.jpg
+img: arduino.png
 alt: arduino-setup
 project-length: 2 Weeks
 project-date: Winter 2014

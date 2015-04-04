@@ -5,8 +5,8 @@ class: wikimedia
 role: Research, Concept, Evaluations, Prototype Developer
 keywords: Iterative Design, Mobile Apps, Evaluation, Gamification, Prototyping
 title: Mobile App Design for Wikimedia
-date: 2014-07-14
-img: whiteboard2.jpg
+date: 2014-07-15
+img: wikimedia.jpg
 alt: whiteboard-sketches
 project-length: 10 Weeks (part time)
 project-date: Winter 2014
