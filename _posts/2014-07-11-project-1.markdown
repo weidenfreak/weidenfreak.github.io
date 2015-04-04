@@ -14,7 +14,7 @@ group: Marcel, Luis, Adam, Dennis
 focus: Human-centred Design
 ---
 <h3>Challenge</h3>
-<p>This project was a university group project which was developed in cooperation with <a href="https://www.wikimedia.org/">Wikimedia</a>. Wikimedia asked us to design a mobile game that would help to categorize the large number of uncategorized pictures in their <a href="https://commons.wikimedia.org/wiki/Category:Images">image database</a>. </p>
+<p>This project was a university group project which was developed in cooperation with <a href="https://www.wikimedia.org/">Wikimedia</a>. Wikimedia asked us to design a mobile game that would help to categorize the large number of uncategorized pictures in their <a href="https://commons.wikimedia.org/wiki/Category:Images">image database</a>.</p>
 <h3>Research and Planning</h3>
 <p>I encouraged my team to start this project by analysing the workflow of uploading pictures on Wikimedia. Besides analysing the current state we studied gamification concepts that could help us to create a fun user experience. We also summarised our understandings about possible users.</p>
 <h3>Concept</h3>
@@ -42,4 +42,4 @@ focus: Human-centred Design
 <p>Our final prototype was developed well enough to conduct a user experience evaluation. Our test users were asked to freely explore the application and we observed them quietly. Afterwards we interviewed them about their experience with a combination of closed-ended and open-ended questions.</p>
 <p>Our results indicated that most of our users found the fun factor of the game "ok", which was a reasonable result, considering that we could not implement all gamification elements. Another interesting finding was that regular gamers did not care about the fact that they were helping Wikimedia by playing this game. Non-gamers, on the other hand we encouraged by the fact of knowing that they help Wikimedia.</p>
 <h3>Reflections</h3>
-<p>The iterative process of developing prototypes and evaluating them helped us to discover problems early. However, I wish we would have spent more time learning about potential users initially and created personas instead of jumping to a concept too quickly. But in the end the representatives of Wikimedia Sweden were pleased by our results.</p>
+<p>The iterative process of developing prototypes and evaluating them helped us to discover problems early. However, I wish we would have spent more time learning about potential users initially and created personas instead of jumping to a concept too quickly. But in the end the representatives of Wikimedia Sweden were pleased by our results.
