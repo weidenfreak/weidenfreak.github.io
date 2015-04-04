@@ -22,19 +22,16 @@ focus: Empirical Research
 <h4>Results</h4>
 <p>Among the total sample size of 1195 GitHub users were 64% males, 7% female and 29% with unidentified gender.</p>
 <p>As shown by the following graph, there are overall no large gaps concerning <strong>participation in code</strong>, depending on gender. However, the graph also shows that there are slightly more male power users.</p>
-<p>
-  <figure>
-    <img src="img/portfolio/github/scraping_commits.png" class="img-responsive img-thumbnail img-centered" alt="Number of commits per gender">
-    <figcaption>Fig.1 - Number of commits</figcaption>
-  </figure>
+<figure>
+  <img src="img/portfolio/github/scraping_commits.png" class="img-responsive img-thumbnail img-centered" alt="Number of commits per gender">
+  <figcaption>Fig.1 - Number of commits</figcaption>
+</figure>
 <p>In contrast to that, the following graph shows that there are significant differences when looking into <strong>participation in discussions</strong> on GitHub.</p>
 <figure>
   <img src="img/portfolio/github/scraping_comments.png" class="img-responsive img-thumbnail img-centered" alt="Number of Comments per gender">
   <figcaption>Fig.2 - Number of comments in issue discussions</figcaption>
 </figure>
-</p>
 <p>Overall, females seem to participate in discussions considerably less. Surprisingly, their contribution of code does not seem to be influenced by the fact that they are in the minority.</p>
-<p>
 <h3>Questionnaire</h3>
 <p>Our questionnaire, which we designed together, had ten questions in total. The first three question asked about gender, registration date and if they reveal their real gender on their profile page. Afterwards we asked about their participation amount in discussions and code contributions. The last questions aimed to reveal the motives behind participation and non-participation.</p>
 <h4>Results</h4>
@@ -45,7 +42,6 @@ focus: Empirical Research
   <img src="img/portfolio/github/why_participate.png" class="img-responsive img-thumbnail img-centered" alt="why people participate">
   <figcaption>Fig.3 - Why people participate in discussions</figcaption>
 </figure>
-</p>
 <p>From these answers we can see that females do initiate discussions but tend to avoid involving themselves in further conversations. The following graph shows why people don't participate in discussions.</p>
 <figure>
   <img src="img/portfolio/github/why_not_participate.png" class="img-responsive img-thumbnail img-centered" alt="why people don't participate">
@@ -54,4 +50,4 @@ focus: Empirical Research
 <p>Based on these answers we can assume that females tend to avoid discussions on GitHub because they feel uncomfortable, are afraid of negative feedback or tend to question their competency. Males seem to be more self-confident about participating in discussions and less scared of negative feedback.</p>
 <h3>Notes</h3>
 <p>The results obviously have to be interpreted with care because our questionnaire had only 11 female participants.</p>
-<p><small>*  The data was extracted by using <a href="http://ghtorrent.org/">GHTorrent</a> and scraping the GitHub website because the GitHub API is not built to provide that kind of data in an efficient way.</small>
+<p><small>*  The data was extracted by using <a href="http://ghtorrent.org/">GHTorrent</a> and scraping the GitHub website because the GitHub API is not built to provide that kind of data in an efficient way.</small></p>
