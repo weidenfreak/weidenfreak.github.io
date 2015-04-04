@@ -41,7 +41,6 @@ focus: Empirical Research
 <p>We collected a total number of 71 responses with our questionnaire. About 85% were male and 15% were female users.</p>
 <p>Interestingly, the patterns about the differences in the amount of participation were the same as in our previous data collection. We also found that there are no differences when it comes to revealing gender on the profile page.</p>
 <p>The following two graphs give some insights about why people participate. The first graph shows the reasons why people participate in discussions.</p>
-</p>
 <figure>
   <img src="img/portfolio/github/why_participate.png" class="img-responsive img-thumbnail img-centered" alt="why people participate">
   <figcaption>Fig.3 - Why people participate in discussions</figcaption>
@@ -52,10 +51,7 @@ focus: Empirical Research
   <img src="img/portfolio/github/why_not_participate.png" class="img-responsive img-thumbnail img-centered" alt="why people don't participate">
   <figcaption>Fig.4 - Why people don't participate</figcaption>
 </figure>
-</p>
 <p>Based on these answers we can assume that females tend to avoid discussions on GitHub because they feel uncomfortable, are afraid of negative feedback or tend to question their competency. Males seem to be more self-confident about participating in discussions and less scared of negative feedback.</p>
 <h3>Notes</h3>
 <p>The results obviously have to be interpreted with care because our questionnaire had only 11 female participants.</p>
-</p>
 <p><small>*  The data was extracted by using <a href="http://ghtorrent.org/">GHTorrent</a> and scraping the GitHub website because the GitHub API is not built to provide that kind of data in an efficient way.</small>
----
