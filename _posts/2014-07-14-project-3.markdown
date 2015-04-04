@@ -57,6 +57,5 @@ focus: Empirical Research
 <h3>Notes</h3>
 <p>The results obviously have to be interpreted with care because our questionnaire had only 11 female participants.</p>
 </p>
-<p><small>*  The data was extracted by using <a href="http://ghtorrent.org/">GHTorrent</a> and scraping the GitHub website because the GitHub API is not built to provide that kind of data in an efficient way.</small></p>
-
+<p><small>*  The data was extracted by using <a href="http://ghtorrent.org/">GHTorrent</a> and scraping the GitHub website because the GitHub API is not built to provide that kind of data in an efficient way.</small>
 ---
