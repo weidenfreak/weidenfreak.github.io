@@ -2,7 +2,6 @@
 layout: default
 modal-id: 1
 class: wikimedia
-role: Research, Concept, Evaluations, Prototype Developer
 keywords: Iterative Design, Mobile Apps, Evaluation, Gamification, Prototyping
 title: Mobile App Design for Wikimedia
 date: 2014-07-15

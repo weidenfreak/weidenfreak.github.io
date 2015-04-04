@@ -2,7 +2,6 @@
 layout: default
 modal-id: 3
 class: github
-role: Research, Questionnaire, Data Scraping and Analysis
 keywords: User Research, Questionnaire, Data Scraping
 title: Participation on GitHub
 date: 2014-07-14
