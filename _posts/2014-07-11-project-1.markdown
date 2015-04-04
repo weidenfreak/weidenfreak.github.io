@@ -25,7 +25,7 @@ focus: Human-centred Design
 <p>The check mode provides a variation of the game for users but also makes sure that the pictures are being tagged correctly for Wikimedia. In the second game mode the user sees a similar gallery and tags but this time the user has a time limit of one minute to tag as many pictures as possible for each tag.</p>
 <h3>Result</h3>
 <p>Our final prototype incorporated navigation through the application and playing the tag mode as shown in this video.</p>
-<div class="flex-video widescreen"><iframe src="https://www.youtube.com/embed/umFB6wCbvQc" allowfullscreen=""></iframe></div>
+<div class="flex-video widescreen"><iframe frameborder="0" src="http://www.youtube.com/embed/umFB6wCbvQc" allowfullscreen=""></iframe></div>
 <h3>Process</h3>
 <p>We developed our prototype in three iterations, each of it with a new prototype and a suitable evaluation method.</p>
 <h4>Paper Prototype</h4>
