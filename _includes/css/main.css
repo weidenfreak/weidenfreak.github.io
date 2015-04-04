@@ -9,11 +9,11 @@ body {
 }
 
 p {
-    font-size: 20px;
+    font-size: 16px;
 }
 
 p.small {
-    font-size: 16px;
+    font-size: 13px;
 }
 
 a,
@@ -115,11 +115,11 @@ header .intro-text .skills {
     }
 
     header .intro-text .name {
-        font-size: 4.75em;
+        font-size: 3.75em;
     }
 
     header .intro-text .skills {
-        font-size: 1.75em;
+        font-size: 1.25em;
     }
 }
 
@@ -176,7 +176,7 @@ section {
 
 section h2 {
     margin: 0;
-    font-size: 3em;
+    font-size: 30px;
 }
 
 section.success {
@@ -211,7 +211,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba(144, 149, 160, .8); 
+    background: rgba(90, 100, 122, .8);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -398,7 +398,7 @@ footer .footer-below {
 
 .portfolio-modal .modal-content h2 {
     margin: 0;
-    font-size: 3em;
+    font-size: 2em;
 }
 
 .portfolio-modal .modal-content img {
