@@ -19,7 +19,7 @@ focus: Prototyping
 <h3>Result</h3>
 <p>Unfortunatly I couldn't get a slider so I had to work with a turning knob instead. A quick demonstration of the result can be seen in the following video.</p>
 <div class="flex-video widescreen"><iframe frameborder="0" src="http://www.youtube.com/embed/2jrZv-j7q3I" allowfullscreen=""></iframe></div>
-<p>A <a href="http://weidenfreak.github.io/InteractiveAfricaMapD3/"> live version</a> is also available but it doesn't have Arduino support and is optimised for Google Chrome only.</p>
+<p>A <a href="http://weidenfreak.github.io/InteractiveAfricaMapD3/"> live version</a> is also available but it doesn't have Arduino support. It's also just a prototype and was therefore only optimised for the Google Chrome browser.</p>
 <h3>Process</h3>
 <p>The prototype was developed in several iterations. During the development I did small evaluations in which I led my users explore the prototype and encouraged them to give feedback. One minor finding was for example, that while using the turning knob the users lost the focus on the year range in the bottom. I therefore additionally included the current year above the map as shown in this screenshot:</p>
 <img src="img/portfolio/africa_map.png" class="img-responsive img-thumbnail img-centered" alt="Africa_Map Screen">
