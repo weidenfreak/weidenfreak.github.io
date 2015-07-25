@@ -13,10 +13,10 @@ group: Just me
 focus: "Thesis: UX and Ubiquitous Computing"
 ---
 <h3>Challenge</h3>
-<p>This was a small master thesis for which I decided to explore user experience in ubiquitous computing.</p>
+<p>This was a small master's thesis for which I decided to explore user experience in ubiquitous computing.</p>
 <h3>Abstract</h3>
 <p>When looking at the Internet of Things the question arises how people, places and things will be connected to each other in the future. One option to create interoperability between devices and humans for the Internet of Things is to use open web standards. Researchers have named this approach the Web of Things and have studied the vision by showing the technical feasibility and by suggesting software architectures. </p>
 <p>What has been missing so far is a designer’s view on the challenges of connecting the virtual and the physical world with web technology. This thesis therefore aims to explore how current web technologies can be used as design material for the Web of Things. The results indicate that new web technologies like push notifications work well in the context of ubiquitous computing. </p>
 <p>Additionally, the repertory grid method was applied to evaluate how users experience the Web of Things. It was found that the prototypes were perceived as easy to use, personal and working instantly but the participants were also clearly aware of the dependency to a working smartphone.</p>
 <h3>More</h3>
-<p><a href="http://umu.diva-portal.org/smash/record.jsf?pid=diva2%3A821753&dswid=-4659">Full Thesis</a></p>
+<p><a href="http://umu.diva-portal.org/smash/record.jsf?pid=diva2%3A821753&dswid=-4659">Full thesis</a></p>
