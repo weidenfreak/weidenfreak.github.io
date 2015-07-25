@@ -7,9 +7,9 @@ title: UX in Ubiquitous Computing
 date: 2014-06-01
 img: physical_web.png
 alt: physical web beacons
-project-length: 10 Weeks
+project-length: 10 weeks
 project-date: Spring 2015
-group: Just Me
+group: Just me
 focus: "Thesis: UX and Ubiquitous Computing"
 ---
 <h3>Challenge</h3>

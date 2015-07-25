@@ -7,7 +7,7 @@ title: Participation on GitHub
 date: 2014-07-14
 img: github.png
 alt: github-participation-statistics
-project-length: 2 Weeks
+project-length: 2 weeks
 project-date: Spring 2015
 group: Fahria
 focus: Empirical Research

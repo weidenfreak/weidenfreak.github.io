@@ -7,7 +7,7 @@ keywords: Data Visualisation, Embodied Interaction, Prototyping (Arduino, Javasc
 date: 2014-07-13
 img: arduino.png
 alt: arduino-setup
-project-length: 2 Weeks
+project-length: 2 weeks
 project-date: Winter 2014
 group: Just me
 focus: Prototyping
