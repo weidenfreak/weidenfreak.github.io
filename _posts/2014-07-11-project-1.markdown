@@ -9,7 +9,7 @@ img: wikimedia.jpg
 alt: whiteboard-sketches
 project-length: 10 weeks (part time)
 project-date: Winter 2014
-group: Marcel, Luis, Adam, Dennis
+group: Four other students
 focus: Human-centred Design
 ---
 <h3>Challenge</h3>
