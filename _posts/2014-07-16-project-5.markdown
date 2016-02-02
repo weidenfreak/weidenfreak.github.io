@@ -1,0 +1,47 @@
+---
+layout: default
+modal-id: 5
+class: gpred
+keywords: UX Research, Prototyping, Design, Development
+title: Redesign of a Frontend
+date: 2015-06-01
+img: gpred_preview.png
+alt: sketches
+project-length: 10 weeks
+project-date: Summer 2015
+group: Just me
+focus: '"Real World" Project'
+
+---
+<h3>Challenge</h3>
+<p>During my semester break I worked for a startup as a UX designer and developer. The startup develops software with which businesses can calculate how likely it is that a certain end-customer will buy a product soon. This information helps sales and marketing departments to make better decisions and serve the end-customer better. The startup offers this functionality as software-as-a-service and it is based on machine learning and big data. During a period of about five weeks I was solely responsible for identifying current issues in the frontend and designing an alternative. In the last couple of weeks I implemented it with the help of another developer.</p>
+<h3>Design Process</h3>
+<p>I started the design process by doing some research, afterwards I synthesized my data, sketched some possible solutions and then built an interactive prototype with Axure.</p>
+<h4>Research</h4>
+<p>First, I made myself familiar with the existing frontend. It was challenging in the beginning to understand the whole concept because the predictions about who will buy a product rely heavily on data science.  Furthermore it is a relatively new product field which made it hard for me, and I assumed also for future users, to create a mental model about how the frontend worked. To overcome this I asked for a meeting with the developer and I sketched my understanding that I had so far on a whiteboard while he filled in the blanks and corrected me whenever necessary.</p>
+<figure>
+  <img src="img/portfolio/gpred/whiteboard_sketches1.png" class="img-responsive img-thumbnail img-centered" alt="Whiteboard Sketches">
+  <figcaption>Fig.1 - Sketching for Understanding</figcaption>
+</figure>
+<p>To collect more information I interviewed employees from different departments (data science, sales, customer support and marketing). With the results from the interviews I prepared a workshop with the goal of creating a shared understanding about user personas (besides the buyer personas that already existed). In the workshop we followed a given structure for personas and collected ideas from all the different departments on post-its. Afterwards, we merged those ideas and ended the workshop with four tentative personas.</p>
+<p>Another important issue that I identified was the need for a new vocabulary in the frontend. Besides collecting data about wordings through the interviews I also collected ideas from other products that had some similarity. Sometimes I also got the chance to listen to sales phone calls which proved to be a good source to learn about what words potential customers used. At some point we did another workshop in which we agreed on the new vocabulary. It also became clear that some real users should be interviewed as well which was then planned to do.</p>
+<h4>Prototyping</h4>
+<p>Based on the personas and the other collected information I started to sketch out some ideas about possible workflows. During the process I took some inspiration from established interaction design patterns and a book about how to visualize information.</p>
+<figure>
+  <img src="img/portfolio/gpred/sketches1.png" class="img-responsive img-thumbnail img-centered" alt="Workflow Sketches">
+  <figcaption>Fig.2 - Sketching Workflows</figcaption>
+</figure>
+<p>After going a bit back and forth with the ideas we finally settled on one solution that I turned into an interactive prototype with Axure. Some things turned out to not make as much sense as it did on the paper but others turned out to be more intuitive than anticipated.</p>
+<figure>
+  <img src="img/portfolio/gpred/axure2.png" class="img-responsive img-thumbnail img-centered" alt="Axure Prototype">
+  <figcaption>Fig.3 - Axure Prototype Screenshot</figcaption>
+</figure>
+<figure>
+  <img src="img/portfolio/gpred/axure.png" class="img-responsive img-thumbnail img-centered" alt="Axure Prototype">
+  <figcaption>Fig.4 - Axure Prototype Screenshot</figcaption>
+</figure>
+<p>The Axure prototype was iteratively refined over about two days until everyone who was involved agreed on the solution. After that the implementation phase started in which another developer and me implemented the changes. Towards the end we also had a visual designer who supported us for some days.</p>
+<h3>Reflections</h3>
+<p>I think this project was a great opportunity to apply my skills from my studies in a real world project. I had a lot of freedom to decide about what was best to do and I learned a lot. One thing that surprised me was the power of the Axure prototype. As I was at the same time the designer and the developer I had some doubts about the importance of an interactive prototype. But I decided to build an interactive prototype anyhow because it was quick and easy. First of, the process of prototyping with Axure helped me refine my ideas much deeper than before. What was even more important was the prototype's use as a tool to create a shared understanding among the stakeholders. Due the Axure prototype, the process of developing the final solution was very straightforward although small refinements were also made in that phase.</p>
+<p>In the end my employer was very satisfied with the result. I had hoped that I could also test the results with some users outside the company but we unfortunately did not manage to organize that due to my limited time frame and because the project took place in the midst of the holiday season.</p>
+<p>Unfortunately I cannot show the final screens because the startup wants to keep them secret for now because of a very competitive market.</p>

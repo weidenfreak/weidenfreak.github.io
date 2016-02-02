@@ -10,7 +10,7 @@ alt: github-participation-statistics
 project-length: 2 weeks
 project-date: Spring 2015
 group: Fahria
-focus: Empirical Research
+focus: "Study project: Empirical Research"
 ---
 <h3>Challenge</h3>
 <p>This university project was developed in a team of two. Our task was to do an empirical study about participation in social media. We decided to focus on participation on the social coding platform <a href="https://github.com">GitHub</a>. Our goal was to look at participation through a gender lens and find reasons why people participate or not participate.</p>
@@ -32,7 +32,7 @@ focus: Empirical Research
 </figure>
 <p>Overall, females seem to participate in discussions considerably less. Surprisingly, their contribution of code does not seem to be influenced by the fact that they are in the minority.</p>
 <h3>Questionnaire</h3>
-<p>Our questionnaire, which we designed together, had ten questions in total. The first three question asked about gender, registration date and if they reveal their real gender on their profile page. Afterwards we asked about their participation amount in discussions and code contributions. The last questions aimed to reveal the motives behind participation and non-participation.</p>
+<p>Our questionnaire, which we designed together, had ten questions in total. The first three questions asked about gender, registration date and if they reveal their real gender on their profile page. Afterwards we asked about their participation amount in discussions and code contributions. The last questions aimed to reveal the motives behind participation and non-participation.</p>
 <h4>Results</h4>
 <p>We collected a total number of 71 responses with our questionnaire. About 85% were male and 15% were female users.</p>
 <p>Interestingly, the patterns about the differences in the amount of participation were the same as in our previous data collection. We also found that there are no differences when it comes to revealing gender on the profile page.</p>

@@ -10,7 +10,7 @@ alt: arduino-setup
 project-length: 2 weeks
 project-date: Winter 2014
 group: Just me
-focus: Prototyping
+focus: "Study Project: Prototyping"
 ---
 <h3>Challenge</h3>
 <p>This project was an individual university project in which I worked with data from the <a href="http://www.worldbank.org/">World Bank</a>. The World Bank provides Open Data about the development of the world but the data is not very accessible and understandable. So the task was to focus on a certain aspect of the data, create a more accessible representation and also incorporate the ideas of embodied interaction.</p>
