@@ -3,7 +3,7 @@ title: Meike Wiemann
 email: meike.wiemann@web.de
 url: https://weidenfreak.github.io
 #"Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-description: Meike Wiemann - HCI Master Student and Software Developer
+description: Meike Wiemann - UX Designer and UI Developer
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -25,8 +25,6 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: linkedin
-    url: https://www.linkedin.com/in/meikewiemann
   - title: xing
     url: https://www.xing.com/profile/Meike_Wiemann
   - title: github
@@ -40,9 +38,9 @@ social:
 address:
   - line: '<a href="mailto:meike.wiemann@web.de">meike.wiemann@web.de</a>'
   - line: " "
-  - line: "Rullstensgatan 178"
-  - line: 90655 Umeå
-  - line: Sweden
+  - line: "Bornkampsweg 31e"
+  - line: "22926 Ahrensburg"
+  - line: "Germany"
 
 # Credits content
 credits: '<a href="http://jekyllrb.com/">Jekyll</a> <br><br><a href="http://startbootstrap.com/template-overviews/freelancer/">Freelancer Theme</a>'
